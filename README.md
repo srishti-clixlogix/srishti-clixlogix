@@ -1,6 +1,6 @@
 <h1 align="center">
-   
-    <img src="https://github.com/amanclixlogix/amanclixlogix/raw/main/clixlogo.jpeg">
+   <p>
+    < img src="https://github.com/amanclixlogix/amanclixlogix/raw/main/clixlogo.jpeg"> </p>
 </h1>
 <p align="center">
     <a href="https://www.clixlogix.com/">
