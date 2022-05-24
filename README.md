@@ -24,7 +24,7 @@ Expertise: Devops, Reactjs, Javascript, React Native, Nodejs, iOS, Android
 
 <b>How to connect with me</b>
 </br>
-Please connect with our team via this link <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">https://www.clixlogix.com/contact-us/</a>
+Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">srishti.p@clixlogix.net</a>
 </br>
 </br>
 <b>Statics:</b>
