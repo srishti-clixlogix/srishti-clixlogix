@@ -12,7 +12,7 @@
 </h1>
 <b> About me:</b>
 </br>
-Hi, I'm Aman having an experience of 10+ years in delivering quality softwares in varietly of domains like Healthcare, Communications, eCommerce.
+Hi, I'm Srishti having an experience of 5+ years in Devops,
 </br>
 </br>
 
@@ -22,7 +22,7 @@ I’m interested in designing solutions, Architect the project and provide techn
 </br>
 </br>
 <b>Tech Stack and Expertise</b></br>
-Expertise: Devops, Reactjs, Javascript, React Native, Nodejs, iOS, Android
+Expertise: Devops, 
 </br>
 </br>
 
