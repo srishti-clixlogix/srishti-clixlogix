@@ -3,6 +3,11 @@
     <img src="https://github.com/amanclixlogix/amanclixlogix/raw/main/clixlogo.jpeg">
 </a>
 </h1>
+<p align="center">
+    <a href="https://www.clixlogix.com/">
+     https://www.clixlogix.com   
+</a>
+</p>
 <h1 align="center">
   <b>Srishti Pokhriyal</b>
 </h1>
